@@ -1,6 +1,6 @@
 {
   "name": "hook-use-previous",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "usePrevious hook to easily get previous value of the variable",
   "main": "index.js",
   "scripts": {
@@ -8,8 +8,5 @@
   },
   "author": "Lukas Liesis",
   "homepage": "https://github.com/liesislukas/hook-use-previous",
-  "license": "MIT",
-  "dependencies": {
-    "react": "^16.8.5"
-  }
+  "license": "MIT"
 }
