@@ -1,13 +1,14 @@
 {
   "name": "hook-use-previous",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "usePrevious hook to easily get previous value of the variable",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Lukas Liesis",
-  "license": "ISC",
+  "homepage": "https://github.com/liesislukas/hook-use-previous",
+  "license": "MIT",
   "dependencies": {
     "react": "^16.8.5"
   }
